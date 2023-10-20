@@ -1,0 +1,1 @@
+# Serilog Structured Logging
